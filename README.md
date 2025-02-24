@@ -1,4 +1,4 @@
-# DS Manager
+# DS Manager - DS - DroneScore
 
 # Notice d'Utilisation du Système d'Arbitrage et de Gestion de Compétition de Drone Soccer
 
