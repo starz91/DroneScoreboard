@@ -2,6 +2,8 @@
 
 ## 🔹 Caractéristiques
 
+![Logo](images/REMOTE1.png) ![Logo](images/REMOTE2.png)
+
 1. **Interrupteur marche/arrêt**
 2. **Bouton poussoir momentané**
 3. **Bouton poussoir momentané**
