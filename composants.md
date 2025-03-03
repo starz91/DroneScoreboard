@@ -74,6 +74,7 @@
 - Brancher l'alimentation fournie au **boîtier (USB-C) et à une prise 220V**.
 - Connecter le **boîtier avec un câble RJ45** à votre **ordinateur**.
 
+![Logo](images/PC.png) ![Logo](images/RJ45.jpg) ![Logo](images/RJ45M.jpg)
 ---
 
 # 💻 DS LOGICIEL (DS SOFTWARE)
