@@ -1,18 +1,18 @@
-### DS Manager - DS - DroneScore
+# DS Manager - DS - DroneScore
 
 ## Notice d'Utilisation du Système d'Arbitrage et de Gestion de Compétition de Drone Soccer
 
-# Table des Matières
+## Table des Matières
 
-# 1. Introduction 
-# 2. [Description générale du système](description.md) 
-# 3. [Liste des composants](composants.md)  
-# 4. Installation et configuration  
-# 5. Utilisation – Tournoi 
-# 6. Maintenance et dépannage
-# 7. Sécurité et précautions d’utilisation 
-# 8. Contacts et support 
-# 9. Mise à jour du logiciel  
+### 1. Introduction 
+### 2. [Description générale du système](description.md) 
+### 3. [Liste des composants](composants.md)  
+### 4. Installation et configuration  
+### 5. Utilisation – Tournoi 
+### 6. Maintenance et dépannage
+### 7. Sécurité et précautions d’utilisation 
+### 8. Contacts et support 
+### 9. Mise à jour du logiciel  
 
 ---
 
