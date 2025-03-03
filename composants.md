@@ -42,6 +42,8 @@
 
 ### 🔹 Caractéristiques
 
+![Logo](images/GOAL.png)![Logo](images/POWERSUPPLY.png)
+
 1. **Boulons à œil M4 x2**
 2. **Connecteur XT30 DC 24V**
 3. **Alimentation 24V 300W** (Quantité : 1)
