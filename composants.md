@@ -67,6 +67,8 @@
 
 # 🧠 DS BOÎTIER DE CONTRÔLE (DS CONTROL BOX)
 
+![Logo](images/RPI1.png) ![Logo](images/RPI2.png) ![Logo](images/PSRPI.png)
+
 ### ✔️ Connexion
 - Connecter **les antennes WiFi et Bluetooth** (USB, nécessaire pour la communication entre les buts, les télécommandes et le boîtier).
 - Brancher l'alimentation fournie au **boîtier (USB-C) et à une prise 220V**.
