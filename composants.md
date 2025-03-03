@@ -96,3 +96,4 @@
 
 🎯 Vous arriverez alors sur la page d'accueil du logiciel.
 
+![Logo](images/DS1.png)
