@@ -86,7 +86,7 @@
   - Cliquer sur **"Paramètres avancés"**
   - Puis **"Continuer vers dronesoccer.local (dangereux)"**
  
-  - ![Logo](images/connect1.jpg) ![Logo](images/connect2.jpg)
+  - ![Logo](images/connect1.png) ![Logo](images/connect2.png)
 
 ### 🔹 Accès alternatif (non recommandé à cause de la latence)
 1. **Allumer le Raspberry Pi**
