@@ -6,7 +6,7 @@
 
 # 1. Introduction 
 # 2. [Description générale du système](description.md) 
-# 3. Liste des composants 
+# 3. [Liste des composants](composants.md)  
 # 4. Installation et configuration  
 # 5. Utilisation – Tournoi 
 # 6. Maintenance et dépannage
