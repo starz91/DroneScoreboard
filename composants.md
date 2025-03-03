@@ -85,6 +85,8 @@
 - Un message d'avertissement peut apparaître :
   - Cliquer sur **"Paramètres avancés"**
   - Puis **"Continuer vers dronesoccer.local (dangereux)"**
+ 
+  - ![Logo](images/CONNECT1.jpg) ![Logo](images/CONNECT2.jpg)
 
 ### 🔹 Accès alternatif (non recommandé à cause de la latence)
 1. **Allumer le Raspberry Pi**
